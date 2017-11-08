@@ -13,7 +13,7 @@ screen sh nanobsd.sh -c msl.conf
 
 or later 
 
-screen sh nanobsd.sh -b -c mvn.conf
+screen sh nanobsd.sh -b -c msl.conf
 
 dd if=/data/nano/_.disk.full of=/dev/da<x> bs=64k  
 
