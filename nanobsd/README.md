@@ -17,6 +17,9 @@ screen sh nanobsd.sh -b -c mvn.conf
 
 dd if=/data/nano/_.disk.full of=/dev/da<x> bs=64k  
 
+See more details here
+
+http://makerspaceleiden.nl/wiki/index.php/NetworkSetup_AP
 
 
 
